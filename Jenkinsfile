@@ -186,6 +186,7 @@ pipeline {
 						'cocoa.macosx.x86_64',\
 						'gtk.linux.aarch64',\
 						'gtk.linux.ppc64le',\
+						'gtk.linux.riscv64',\
 						'gtk.linux.x86_64',\
 						'win32.win32.aarch64',\
 						'win32.win32.x86_64'
